@@ -4,6 +4,8 @@ https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
 I experimented the deeplearning.ai course with the Llama2 7b-chat-hf model on Kaggle <br>
 I used the learnings from the course to create a custom chatbot called OrderBot for my non-existent Sunshine cafe. <br>
 ![image](https://github.com/shradha810/Chatgpt-Prompt-Engineering/assets/60320258/3171f2fd-cfc6-4598-8c05-54925e6ee30d)
+![image](https://github.com/shradha810/Chatgpt-Prompt-Engineering/assets/60320258/af394994-b8a4-4b76-82fe-62d7fdbc299b)
+
 
 Here are some key takeaways from this Course: <br>
 Principle 1: Craft Clear & Specific Instructions <br>

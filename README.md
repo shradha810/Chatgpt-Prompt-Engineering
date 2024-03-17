@@ -4,7 +4,7 @@ https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
 I experimented the deeplearning.ai course with the Llama2 7b-chat-hf model on Kaggle <br>
 I used the learnings from the course to create a custom chatbot called OrderBot for my non-existent Sunshine cafe. <br>
 
-Here are some key takeaways from this lesson: <br>
+Here are some key takeaways from this Course: <br>
 Principle 1: Craft Clear & Specific Instructions <br>
 1. Use clear and concise instructions to guide the model. <br>
 2. Use delimiters like quotes, brackets, and dashes to prevent "prompt injection" - unwanted user influence on the output. This ensures the model to focus on the task at hand, even if the user tries to deviate. <br>
